@@ -21,11 +21,11 @@
 - Assincronicidade.
 - Retorno de API usando "fetch".
 - Manipulação com DOM.
-- 
 
 ## 🛠️ FERRAMENTAS USADAS 
 - Vite
 - Surge
+- SweetAlert 2
 - ESlint
 
 ## CONTATO
